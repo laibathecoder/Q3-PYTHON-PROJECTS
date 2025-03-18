@@ -40,10 +40,10 @@ if password :
 
 
     if score == 5:
-        feedback.append("✅ Your pasword is strong and secure 🔐")
+        feedback.append("✅ Your password is strong and secure 🔐")
 
     elif score == 4 :
-        feedback.append("💹 Yor password is medium strong. It could me more stronger")
+        feedback.append("💹 Your password is medium strong. It could me more stronger")
 
     elif score == 3 :
         feedback.append("📉 Your password is not Strong and Not weak.👨‍💻 Make it more strong 💪 for security 🔐")

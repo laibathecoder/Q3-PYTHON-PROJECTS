@@ -41,6 +41,7 @@ if password :
 
     if score == 5:
         feedback.append("✅ Your password is strong and secure 🔐")
+        st.balloons()
 
     elif score == 4 :
         feedback.append("💹 Your password is medium strong. It could me more stronger")

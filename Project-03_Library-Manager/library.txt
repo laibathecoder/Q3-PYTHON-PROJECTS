@@ -1,0 +1,23 @@
+[
+    {
+        "Title": "rich dad poor dad",
+        "Author": "robert T.kiyosaki",
+        "Year": 1997,
+        "Genre": "personal finance and business",
+        "Read Status": true
+    },
+    {
+        "Title": "atomic habits",
+        "Author": "james clear",
+        "Year": 2018,
+        "Genre": "personal development , psychology",
+        "Read Status": true
+    },
+    {
+        "Title": "think and grow rich",
+        "Author": "napoleon hill",
+        "Year": 1937,
+        "Genre": "personal development and motivation",
+        "Read Status": true
+    }
+]
